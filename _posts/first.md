@@ -1,8 +1,9 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+title: "[Hello] First Post"
+date: 2020-10-18 22:08:00 +0800
+categories: [random]
+tags: [randomstuff, initial]
+toc: true
 ---
 
 **HELLO**
