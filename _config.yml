@@ -20,7 +20,7 @@ url: 'https://wojtekchwala.github.io'
 
 author: Wojtek Chwala                  # change to your full name
 
-avatar: /assets/img/sample/logo.png   # support internet resources
+avatar: /assets/img/sample/logo-orange.png   # support internet resources
 
 github:
   username: wojtekchwala             # change to your github username
@@ -35,7 +35,6 @@ social:
     - https://twitter.com/wojtekchwala      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification: nTNfndpfWoesMYkGgyVSNHtYxrgpVFRT09gFHliQE9I # change to your verification string
@@ -75,7 +74,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
