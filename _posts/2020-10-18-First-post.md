@@ -1,12 +1,11 @@
 ---
-title: "[Hello] First Post"
+title: "Hello guys [First Post]"
 date: 2020-10-18
 categories: [random]
 tags: [randomstuff, initial]
 toc: true
----
-
-**HELLO**
----
 comments: false
 ---
+
+**H3LL0 EV3RY0N3**
+It's good to have you here! Hope you'll find this place interesting & helpful.
