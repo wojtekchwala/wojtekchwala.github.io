@@ -13,22 +13,20 @@ title: Wojtek Chwala             # the main title
 tagline: Honing security skills.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Security research blog.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://wojtekchwala.github.io'
 
 author: Wojtek Chwala                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/logo.png   # support internet resources
 
 github:
   username: wojtekchwala             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: wojtekchwala            # change to your twitter username
 
 social:
   name: Wojtek Chwala                 # it will shows as the copyright owner in Footer
