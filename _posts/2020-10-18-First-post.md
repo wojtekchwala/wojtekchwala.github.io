@@ -7,5 +7,5 @@ toc: true
 comments: false
 ---
 
-**H3LL0 EV3RY0N3**
-It's good to have you here! Hope you'll find this place interesting & helpful.
+**H3LL0 EV3RY0N3** \
+It's good to have you here! Hope you'll find this website useful & informative.
