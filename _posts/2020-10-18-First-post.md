@@ -5,6 +5,7 @@ categories: [random]
 tags: [randomstuff, initial]
 toc: true
 comments: false
+published: false
 ---
 
 **H3LL0 EV3RY0N3** \
