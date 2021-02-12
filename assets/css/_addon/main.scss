@@ -124,7 +124,8 @@ $sidebar-display: "sidebar-display";
     }
     &.active {
       .nav-link {
-        color: #434141;
+        //color: #434141;
+        color: #000;
         background: #a0fb71;
       }
     }
