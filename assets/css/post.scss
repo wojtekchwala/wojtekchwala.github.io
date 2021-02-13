@@ -97,7 +97,7 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
     &::before {
       color: var(--text-muted-color);
       font-size: .65rem;
-      text-transform: uppercase;
+      //text-transform: uppercase;
     }
     &:first-child {
       border-top-right-radius: 0;
